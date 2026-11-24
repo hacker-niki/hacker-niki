@@ -1,4 +1,4 @@
-![Nikita Senko — бэкенд, сети и игры. Пиксельный компьютер с платформером на экране.](https://raw.githubusercontent.com/hacker-niki/hacker-niki/main/assets/workbench.webp)
+![hacker_niki — бэкенд, сети и игры. Пиксельный компьютер с платформером на экране.](https://raw.githubusercontent.com/hacker-niki/hacker-niki/main/assets/hacker_niki.webp)
 
 Привет, я Никита. Пишу бэкенд на **Go и PHP**. Ещё у меня есть свой `traceroute` на C++ и раннер на Unity, в котором герой сам бежит вперёд. От игрока зависит, как далеко он доберётся.
 
