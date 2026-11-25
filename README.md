@@ -3,16 +3,23 @@
   <img src="https://raw.githubusercontent.com/hacker-niki/hacker-niki/main/assets/hacker_niki.gif" alt="hacker_niki — бэкенд, сети и игры. Пиксельный компьютер с платформером на экране.">
 </picture>
 
-Привет, я Никита. Пишу бэкенд на **Go и PHP**. Ещё у меня есть свой `traceroute` на C++ и раннер на Unity, в котором герой сам бежит вперёд. От игрока зависит, как далеко он доберётся.
+## Привет, я Никита
 
-## Что попробовать
+Бэкенд-разработчик, **3+ года опыта**. Мой стек — **Go (Golang), PHP, C++ и Python**. Здесь же выкладываю игры и настольные приложения.
 
-| Проект | Что внутри |
-| :--- | :--- |
-| [Org API](https://github.com/hacker-niki/go-test) | Дерево подразделений на Go и PostgreSQL. Можно запросить отдел вместе с сотрудниками или целиком перенести его в другую ветку. |
-| [traceroute](https://github.com/hacker-niki/traceroute) | Консольная утилита на C++. Для каждого узла на пути к IPv4-адресу показывает имя и время ответа. |
-| [THEGame](https://github.com/hacker-niki/THEGame) | Пять уровней на Unity и C#. Управление двумя клавишами — обходи препятствия и держись на платформе. |
-| [docsManager](https://github.com/hacker-niki/docsManager) | Настольный генератор документов на C++ и Qt. Выбираешь шаблон DOCX, заполняешь поля и получаешь готовый документ. |
-| [API покупки](https://github.com/hacker-niki/Symfony-backend-test) | Бэкенд на Symfony. Применяет купон, считает налог по стране покупателя и проводит тестовую оплату. |
+[Портфолио](https://hacker-niki.github.io/#about) · [Демотека](https://hacker-niki.github.io/demos/) · [Telegram @hacker_niki](https://t.me/hacker_niki)
 
-[Все публичные репозитории →](https://github.com/hacker-niki?tab=repositories)
+## Два проекта в браузере
+
+<p>
+  <a href="https://hacker-niki.github.io/THEGame/play/"><img width="48%" src="https://raw.githubusercontent.com/hacker-niki/hacker-niki.github.io/main/demos/media/thegame.webp" alt="Играть в THEGame — куб на трассе музыкального раннера"></a>
+  <a href="https://hacker-niki.github.io/demos/lab/docsmanager.html"><img width="48%" src="https://raw.githubusercontent.com/hacker-niki/hacker-niki.github.io/main/demos/media/docsmanager.webp" alt="Открыть Docs Manager — сборка документа по шаблону"></a>
+</p>
+
+**[THEGame](https://github.com/hacker-niki/THEGame)** · музыкальный раннер<br>
+Уводи куб от препятствий в такт музыке. В игру можно загрузить свой трек и построить по нему трассу. [Запустить игру](https://hacker-niki.github.io/THEGame/play/)
+
+**[docsManager](https://github.com/hacker-niki/docsManager)** · C++ и Qt<br>
+Заполни поля в шаблоне письма и скачай готовый документ Word. Можно загрузить свой шаблон DOCX. [Собрать документ](https://hacker-niki.github.io/demos/lab/docsmanager.html)
+
+Ещё на GitHub · [HoldBeat](https://github.com/hacker-niki/HoldBeat) — таймер тренировок · [kTone](https://github.com/hacker-niki/kTone) — мой Android-порт тюнера · [Box Analyzer](https://github.com/hacker-niki/box-analize) — компьютерное зрение для коробок, **в разработке**.
